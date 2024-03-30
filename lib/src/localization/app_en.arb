@@ -1,0 +1,6 @@
+{
+  "appTitle": "note_client_crud",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
